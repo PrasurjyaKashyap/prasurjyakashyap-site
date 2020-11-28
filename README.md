@@ -1,7 +1,7 @@
 
 #Prasurjya Kashyap's Portfolio
 
-HEY! Welcome to my P{ortfolio.
+HEY! Welcome to my Portfolio.
 
 Its coming up tomorrow when I learn HTML and CSS.
 
